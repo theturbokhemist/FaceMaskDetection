@@ -1,4 +1,4 @@
-# data-mining.final-project.face-mask-detection
+# Face Mask Detection
 A machine learning implementation of proper face mask wearing detection in images
 
 Four approaches are tried, with the code in the following directories:
